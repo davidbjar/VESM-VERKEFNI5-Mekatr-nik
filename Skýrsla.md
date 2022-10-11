@@ -1,1 +1,16 @@
-Prufa
+# Skýrsla
+
+### Hreyfing
+
+Mekatronikið okkar var hanaður til að hræða mann. Hann getur dottið áfram með hendurnar niður og öskrar þegar að hann er kommin niður, hausin getur snúist fljótlega frá hægri til vinstri í sirka 60 gráður og munurinn getur opnast og lokast.
+
+### Útlit
+
+Mekatronikið okkar er með blá augu sem blikka og 
+
+### Heimildir
+
+### Mælingar
+
+### Myndir
+
