@@ -10,6 +10,8 @@ Mekatronikið okkar er með blá augu sem blikka og
 
 ### Heimildir
 
+https://www.youtube.com/watch?v=x_cv7uOKOZo
+
 ### Mælingar
 
 ### Myndir
